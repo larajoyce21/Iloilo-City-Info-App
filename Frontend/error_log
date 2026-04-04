@@ -1,0 +1,2189 @@
+[12-Mar-2026 02:44:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/contact.php:11
+Stack trace:
+#0 /home/iloincgi/public_html/contact.php(11): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/contact.php on line 11
+[12-Mar-2026 02:44:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/contact.php:11
+Stack trace:
+#0 /home/iloincgi/public_html/contact.php(11): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/contact.php on line 11
+[12-Mar-2026 02:45:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/contact.php:11
+Stack trace:
+#0 /home/iloincgi/public_html/contact.php(11): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/contact.php on line 11
+[12-Mar-2026 02:45:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/contact.php:11
+Stack trace:
+#0 /home/iloincgi/public_html/contact.php(11): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/contact.php on line 11
+[12-Mar-2026 02:45:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/contact.php:11
+Stack trace:
+#0 /home/iloincgi/public_html/contact.php(11): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/contact.php on line 11
+[12-Mar-2026 02:46:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/services.php:5
+Stack trace:
+#0 /home/iloincgi/public_html/services.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 5
+[12-Mar-2026 02:47:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/services.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 35
+[12-Mar-2026 02:47:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/services.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 35
+[12-Mar-2026 02:47:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/services.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 35
+[12-Mar-2026 02:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/services.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 35
+[12-Mar-2026 02:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/services.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 36
+[12-Mar-2026 02:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/services.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 36
+[12-Mar-2026 02:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/services.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 36
+[12-Mar-2026 02:51:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/services.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 36
+[12-Mar-2026 02:52:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/services.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 35
+[12-Mar-2026 02:52:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/services.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 35
+[12-Mar-2026 02:53:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/services.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 35
+[12-Mar-2026 02:53:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/services.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/services.php on line 35
+[12-Mar-2026 08:31:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/login.php:18
+Stack trace:
+#0 /home/iloincgi/public_html/login.php(18): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/login.php on line 18
+[12-Mar-2026 09:51:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/login.php:18
+Stack trace:
+#0 /home/iloincgi/public_html/login.php(18): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/login.php on line 18
+[12-Mar-2026 10:52:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/login.php:18
+Stack trace:
+#0 /home/iloincgi/public_html/login.php(18): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/login.php on line 18
+[12-Mar-2026 10:52:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/login.php:18
+Stack trace:
+#0 /home/iloincgi/public_html/login.php(18): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/login.php on line 18
+[12-Mar-2026 10:53:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/login.php:18
+Stack trace:
+#0 /home/iloincgi/public_html/login.php(18): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/login.php on line 18
+[12-Mar-2026 13:13:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/login.php:18
+Stack trace:
+#0 /home/iloincgi/public_html/login.php(18): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/login.php on line 18
+[12-Mar-2026 13:32:49 UTC] PHP Warning:  Undefined variable $agency_name in /home/iloincgi/public_html/agency7.php on line 83
+[12-Mar-2026 13:32:49 UTC] PHP Warning:  Undefined variable $agency_image in /home/iloincgi/public_html/agency7.php on line 324
+[12-Mar-2026 13:32:49 UTC] PHP Warning:  Undefined variable $agency_image in /home/iloincgi/public_html/agency7.php on line 1083
+[12-Mar-2026 13:32:49 UTC] PHP Warning:  Undefined variable $agency_name in /home/iloincgi/public_html/agency7.php on line 1085
+[12-Mar-2026 13:32:49 UTC] PHP Warning:  Undefined variable $agency_location in /home/iloincgi/public_html/agency7.php on line 1086
+[12-Mar-2026 13:32:49 UTC] PHP Warning:  Undefined variable $agency_name in /home/iloincgi/public_html/agency7.php on line 1093
+[12-Mar-2026 13:32:49 UTC] PHP Warning:  Undefined variable $agency_description in /home/iloincgi/public_html/agency7.php on line 1095
+[12-Mar-2026 13:32:49 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/agency7.php on line 1750
+[12-Mar-2026 13:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/agency7.php:1750
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/agency7.php on line 1750
+[12-Mar-2026 23:38:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/login.php:18
+Stack trace:
+#0 /home/iloincgi/public_html/login.php(18): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/login.php on line 18
+[12-Mar-2026 23:38:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/login.php:18
+Stack trace:
+#0 /home/iloincgi/public_html/login.php(18): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/login.php on line 18
+[12-Mar-2026 23:40:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iloincgi/public_html/car_parts49.php on line 1451
+[12-Mar-2026 23:40:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iloincgi/public_html/car_parts49.php on line 1451
+[12-Mar-2026 23:40:59 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[12-Mar-2026 23:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[12-Mar-2026 23:40:59 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[12-Mar-2026 23:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[12-Mar-2026 23:45:43 UTC] PHP Warning:  Undefined variable $agency_name in /home/iloincgi/public_html/agency7.php on line 83
+[12-Mar-2026 23:45:43 UTC] PHP Warning:  Undefined variable $agency_image in /home/iloincgi/public_html/agency7.php on line 324
+[12-Mar-2026 23:45:43 UTC] PHP Warning:  Undefined variable $agency_image in /home/iloincgi/public_html/agency7.php on line 1083
+[12-Mar-2026 23:45:43 UTC] PHP Warning:  Undefined variable $agency_name in /home/iloincgi/public_html/agency7.php on line 1085
+[12-Mar-2026 23:45:43 UTC] PHP Warning:  Undefined variable $agency_location in /home/iloincgi/public_html/agency7.php on line 1086
+[12-Mar-2026 23:45:43 UTC] PHP Warning:  Undefined variable $agency_name in /home/iloincgi/public_html/agency7.php on line 1093
+[12-Mar-2026 23:45:43 UTC] PHP Warning:  Undefined variable $agency_description in /home/iloincgi/public_html/agency7.php on line 1095
+[12-Mar-2026 23:45:43 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/agency7.php on line 1750
+[12-Mar-2026 23:45:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/agency7.php:1750
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/agency7.php on line 1750
+[13-Mar-2026 15:21:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/iloincgi/public_html/login.php on line 47
+[13-Mar-2026 16:14:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[13-Mar-2026 16:14:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[13-Mar-2026 16:14:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[13-Mar-2026 16:14:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[13-Mar-2026 16:14:23 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[13-Mar-2026 16:14:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[13-Mar-2026 16:14:23 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[13-Mar-2026 16:14:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[13-Mar-2026 16:14:24 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[13-Mar-2026 16:14:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[13-Mar-2026 16:14:24 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[13-Mar-2026 16:14:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[13-Mar-2026 16:14:25 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[13-Mar-2026 16:14:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[13-Mar-2026 16:14:25 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[13-Mar-2026 16:14:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[13-Mar-2026 16:14:26 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[13-Mar-2026 16:14:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[13-Mar-2026 16:14:26 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[13-Mar-2026 16:14:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[13-Mar-2026 16:14:27 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[13-Mar-2026 16:14:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[13-Mar-2026 16:14:27 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[13-Mar-2026 16:14:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[13-Mar-2026 16:14:29 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[13-Mar-2026 16:14:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[13-Mar-2026 16:14:29 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[13-Mar-2026 16:14:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[13-Mar-2026 16:19:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iloincgi/public_html/car_parts49.php on line 1451
+[13-Mar-2026 16:29:29 UTC] PHP Warning:  Undefined variable $agency_name in /home/iloincgi/public_html/agency7.php on line 83
+[13-Mar-2026 16:29:29 UTC] PHP Warning:  Undefined variable $agency_image in /home/iloincgi/public_html/agency7.php on line 324
+[13-Mar-2026 16:29:29 UTC] PHP Warning:  Undefined variable $agency_image in /home/iloincgi/public_html/agency7.php on line 1083
+[13-Mar-2026 16:29:29 UTC] PHP Warning:  Undefined variable $agency_name in /home/iloincgi/public_html/agency7.php on line 1085
+[13-Mar-2026 16:29:29 UTC] PHP Warning:  Undefined variable $agency_location in /home/iloincgi/public_html/agency7.php on line 1086
+[13-Mar-2026 16:29:29 UTC] PHP Warning:  Undefined variable $agency_name in /home/iloincgi/public_html/agency7.php on line 1093
+[13-Mar-2026 16:29:29 UTC] PHP Warning:  Undefined variable $agency_description in /home/iloincgi/public_html/agency7.php on line 1095
+[13-Mar-2026 16:29:29 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/agency7.php on line 1750
+[13-Mar-2026 16:29:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/agency7.php:1750
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/agency7.php on line 1750
+[13-Mar-2026 16:38:16 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[13-Mar-2026 16:38:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[13-Mar-2026 18:54:50 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[13-Mar-2026 18:54:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[13-Mar-2026 18:54:50 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[13-Mar-2026 18:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[13-Mar-2026 23:41:52 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[13-Mar-2026 23:41:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[13-Mar-2026 23:41:52 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[13-Mar-2026 23:41:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[13-Mar-2026 23:41:59 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[13-Mar-2026 23:41:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[13-Mar-2026 23:41:59 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[13-Mar-2026 23:41:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[13-Mar-2026 23:42:04 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[13-Mar-2026 23:42:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[13-Mar-2026 23:42:04 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[13-Mar-2026 23:42:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[13-Mar-2026 23:42:39 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[13-Mar-2026 23:42:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[13-Mar-2026 23:42:39 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[13-Mar-2026 23:42:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[13-Mar-2026 23:43:45 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[13-Mar-2026 23:43:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[13-Mar-2026 23:43:45 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[13-Mar-2026 23:43:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[13-Mar-2026 23:44:07 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[13-Mar-2026 23:44:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[13-Mar-2026 23:44:07 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[13-Mar-2026 23:44:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[13-Mar-2026 23:45:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iloincgi/public_html/car_parts49.php on line 1451
+[13-Mar-2026 23:45:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iloincgi/public_html/car_parts49.php on line 1451
+[13-Mar-2026 23:46:32 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[13-Mar-2026 23:46:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[13-Mar-2026 23:46:32 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[13-Mar-2026 23:46:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[13-Mar-2026 23:48:12 UTC] PHP Warning:  Undefined variable $agency_name in /home/iloincgi/public_html/agency7.php on line 83
+[13-Mar-2026 23:48:12 UTC] PHP Warning:  Undefined variable $agency_image in /home/iloincgi/public_html/agency7.php on line 324
+[13-Mar-2026 23:48:12 UTC] PHP Warning:  Undefined variable $agency_image in /home/iloincgi/public_html/agency7.php on line 1083
+[13-Mar-2026 23:48:12 UTC] PHP Warning:  Undefined variable $agency_name in /home/iloincgi/public_html/agency7.php on line 1085
+[13-Mar-2026 23:48:12 UTC] PHP Warning:  Undefined variable $agency_location in /home/iloincgi/public_html/agency7.php on line 1086
+[13-Mar-2026 23:48:12 UTC] PHP Warning:  Undefined variable $agency_name in /home/iloincgi/public_html/agency7.php on line 1093
+[13-Mar-2026 23:48:12 UTC] PHP Warning:  Undefined variable $agency_description in /home/iloincgi/public_html/agency7.php on line 1095
+[13-Mar-2026 23:48:12 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/agency7.php on line 1750
+[13-Mar-2026 23:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/agency7.php:1750
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/agency7.php on line 1750
+[13-Mar-2026 23:51:20 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[13-Mar-2026 23:51:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[13-Mar-2026 23:51:20 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[13-Mar-2026 23:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[14-Mar-2026 08:47:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iloincgi/public_html/car_parts49.php on line 1451
+[14-Mar-2026 23:40:47 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[14-Mar-2026 23:40:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[14-Mar-2026 23:40:47 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[14-Mar-2026 23:40:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[14-Mar-2026 23:42:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iloincgi/public_html/car_parts49.php on line 1451
+[14-Mar-2026 23:42:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iloincgi/public_html/car_parts49.php on line 1451
+[14-Mar-2026 23:46:00 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[14-Mar-2026 23:46:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[14-Mar-2026 23:46:00 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[14-Mar-2026 23:46:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[14-Mar-2026 23:46:04 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[14-Mar-2026 23:46:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[14-Mar-2026 23:46:04 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[14-Mar-2026 23:46:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[14-Mar-2026 23:46:11 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[14-Mar-2026 23:46:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[14-Mar-2026 23:46:11 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[14-Mar-2026 23:46:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[14-Mar-2026 23:46:17 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[14-Mar-2026 23:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[14-Mar-2026 23:46:17 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[14-Mar-2026 23:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[14-Mar-2026 23:46:29 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[14-Mar-2026 23:46:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[14-Mar-2026 23:46:29 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[14-Mar-2026 23:46:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[14-Mar-2026 23:46:32 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[14-Mar-2026 23:46:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[14-Mar-2026 23:46:32 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[14-Mar-2026 23:46:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[14-Mar-2026 23:46:35 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[14-Mar-2026 23:46:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[14-Mar-2026 23:46:35 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[14-Mar-2026 23:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[15-Mar-2026 04:42:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/iloincgi/public_html/add_hotels.php:219
+Stack trace:
+#0 /home/iloincgi/public_html/add_hotels.php(219): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_hotels.php on line 219
+[15-Mar-2026 04:43:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/iloincgi/public_html/add_hotels.php:219
+Stack trace:
+#0 /home/iloincgi/public_html/add_hotels.php(219): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_hotels.php on line 219
+[15-Mar-2026 04:44:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/iloincgi/public_html/add_hotels.php:219
+Stack trace:
+#0 /home/iloincgi/public_html/add_hotels.php(219): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_hotels.php on line 219
+[15-Mar-2026 04:44:26 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/iloincgi/public_html/add_hotels.php:219
+Stack trace:
+#0 /home/iloincgi/public_html/add_hotels.php(219): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_hotels.php on line 219
+[15-Mar-2026 04:44:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/iloincgi/public_html/add_hotels.php:219
+Stack trace:
+#0 /home/iloincgi/public_html/add_hotels.php(219): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_hotels.php on line 219
+[15-Mar-2026 09:22:45 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[15-Mar-2026 09:22:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[15-Mar-2026 09:22:45 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[15-Mar-2026 09:22:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[15-Mar-2026 09:22:47 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[15-Mar-2026 09:22:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[15-Mar-2026 09:22:47 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[15-Mar-2026 09:22:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[15-Mar-2026 09:22:48 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[15-Mar-2026 09:22:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[15-Mar-2026 09:22:48 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[15-Mar-2026 09:22:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[15-Mar-2026 09:22:50 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[15-Mar-2026 09:22:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[15-Mar-2026 09:22:50 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[15-Mar-2026 09:22:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[15-Mar-2026 09:22:51 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[15-Mar-2026 09:22:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[15-Mar-2026 09:22:51 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[15-Mar-2026 09:22:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[15-Mar-2026 09:22:53 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[15-Mar-2026 09:22:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[15-Mar-2026 09:22:53 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[15-Mar-2026 09:22:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[15-Mar-2026 09:22:55 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[15-Mar-2026 09:22:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[15-Mar-2026 09:22:55 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[15-Mar-2026 09:22:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[15-Mar-2026 11:15:45 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[15-Mar-2026 11:15:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[15-Mar-2026 14:43:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iloincgi_app.emergency_contacts' doesn't exist in /home/iloincgi/public_html/emergency.php:9
+Stack trace:
+#0 /home/iloincgi/public_html/emergency.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/emergency.php on line 9
+[15-Mar-2026 14:43:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iloincgi_app.emergency_contacts' doesn't exist in /home/iloincgi/public_html/emergency.php:9
+Stack trace:
+#0 /home/iloincgi/public_html/emergency.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/emergency.php on line 9
+[15-Mar-2026 14:43:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iloincgi_app.emergency_contacts' doesn't exist in /home/iloincgi/public_html/emergency.php:9
+Stack trace:
+#0 /home/iloincgi/public_html/emergency.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/emergency.php on line 9
+[15-Mar-2026 14:43:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iloincgi_app.emergency_contacts' doesn't exist in /home/iloincgi/public_html/emergency.php:9
+Stack trace:
+#0 /home/iloincgi/public_html/emergency.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/emergency.php on line 9
+[15-Mar-2026 14:49:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iloincgi_app.emergency_contacts' doesn't exist in /home/iloincgi/public_html/emergency.php:12
+Stack trace:
+#0 /home/iloincgi/public_html/emergency.php(12): mysqli->prepare()
+#1 {main}
+  thrown in /home/iloincgi/public_html/emergency.php on line 12
+[15-Mar-2026 14:51:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iloincgi_app.emergency_contacts' doesn't exist in /home/iloincgi/public_html/emergency.php:9
+Stack trace:
+#0 /home/iloincgi/public_html/emergency.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/emergency.php on line 9
+[15-Mar-2026 14:51:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iloincgi_app.emergency_contacts' doesn't exist in /home/iloincgi/public_html/emergency.php:9
+Stack trace:
+#0 /home/iloincgi/public_html/emergency.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/emergency.php on line 9
+[15-Mar-2026 14:51:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iloincgi_app.emergency_contacts' doesn't exist in /home/iloincgi/public_html/emergency.php:9
+Stack trace:
+#0 /home/iloincgi/public_html/emergency.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/emergency.php on line 9
+[15-Mar-2026 14:52:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iloincgi_app.emergency_contacts' doesn't exist in /home/iloincgi/public_html/emergency.php:9
+Stack trace:
+#0 /home/iloincgi/public_html/emergency.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/emergency.php on line 9
+[15-Mar-2026 14:54:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iloincgi_app.emergency_contacts' doesn't exist in /home/iloincgi/public_html/emergency.php:23
+Stack trace:
+#0 /home/iloincgi/public_html/emergency.php(23): mysqli->prepare()
+#1 {main}
+  thrown in /home/iloincgi/public_html/emergency.php on line 23
+[15-Mar-2026 14:55:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iloincgi_app.emergency_contacts' doesn't exist in /home/iloincgi/public_html/emergency.php:19
+Stack trace:
+#0 /home/iloincgi/public_html/emergency.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home/iloincgi/public_html/emergency.php on line 19
+[15-Mar-2026 15:25:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[15-Mar-2026 15:25:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[15-Mar-2026 15:25:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[15-Mar-2026 15:25:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[15-Mar-2026 22:03:23 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[15-Mar-2026 22:03:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[15-Mar-2026 22:03:23 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[15-Mar-2026 22:03:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[15-Mar-2026 23:44:36 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[15-Mar-2026 23:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[15-Mar-2026 23:44:36 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[15-Mar-2026 23:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[15-Mar-2026 23:48:51 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[15-Mar-2026 23:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[15-Mar-2026 23:48:51 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[15-Mar-2026 23:48:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[15-Mar-2026 23:48:54 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[15-Mar-2026 23:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[15-Mar-2026 23:48:54 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[15-Mar-2026 23:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[15-Mar-2026 23:49:06 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[15-Mar-2026 23:49:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[15-Mar-2026 23:49:06 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[15-Mar-2026 23:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[15-Mar-2026 23:49:15 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[15-Mar-2026 23:49:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[15-Mar-2026 23:49:15 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[15-Mar-2026 23:49:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[15-Mar-2026 23:49:17 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[15-Mar-2026 23:49:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[15-Mar-2026 23:49:17 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[15-Mar-2026 23:49:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[15-Mar-2026 23:49:17 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[15-Mar-2026 23:49:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[15-Mar-2026 23:49:17 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[15-Mar-2026 23:49:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[15-Mar-2026 23:49:24 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[15-Mar-2026 23:49:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[15-Mar-2026 23:49:24 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[15-Mar-2026 23:49:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[16-Mar-2026 16:10:23 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[16-Mar-2026 16:10:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[16-Mar-2026 16:10:23 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[16-Mar-2026 16:10:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[16-Mar-2026 23:47:19 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[16-Mar-2026 23:47:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[16-Mar-2026 23:47:19 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[16-Mar-2026 23:47:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[16-Mar-2026 23:57:33 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[16-Mar-2026 23:57:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[16-Mar-2026 23:57:33 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[16-Mar-2026 23:57:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[16-Mar-2026 23:57:45 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[16-Mar-2026 23:57:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[16-Mar-2026 23:57:45 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[16-Mar-2026 23:57:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[16-Mar-2026 23:57:48 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[16-Mar-2026 23:57:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[16-Mar-2026 23:57:48 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[16-Mar-2026 23:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[16-Mar-2026 23:57:50 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[16-Mar-2026 23:57:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[16-Mar-2026 23:57:50 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[16-Mar-2026 23:57:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[16-Mar-2026 23:57:52 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[16-Mar-2026 23:57:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[16-Mar-2026 23:57:52 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[16-Mar-2026 23:57:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[16-Mar-2026 23:57:53 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[16-Mar-2026 23:57:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[16-Mar-2026 23:57:53 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[16-Mar-2026 23:57:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[16-Mar-2026 23:58:11 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[16-Mar-2026 23:58:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[16-Mar-2026 23:58:11 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[16-Mar-2026 23:58:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[17-Mar-2026 13:51:08 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[17-Mar-2026 13:51:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[17-Mar-2026 13:51:08 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[17-Mar-2026 13:51:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[17-Mar-2026 17:58:09 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[17-Mar-2026 17:58:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[17-Mar-2026 17:58:09 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[17-Mar-2026 17:58:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[17-Mar-2026 23:48:05 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[17-Mar-2026 23:48:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[17-Mar-2026 23:48:05 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[17-Mar-2026 23:48:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[17-Mar-2026 23:48:28 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[17-Mar-2026 23:48:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[17-Mar-2026 23:48:28 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[17-Mar-2026 23:48:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[17-Mar-2026 23:49:35 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[17-Mar-2026 23:49:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[17-Mar-2026 23:49:35 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[17-Mar-2026 23:49:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[17-Mar-2026 23:54:12 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[17-Mar-2026 23:54:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[17-Mar-2026 23:54:12 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[17-Mar-2026 23:54:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[18-Mar-2026 00:00:32 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[18-Mar-2026 00:00:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[18-Mar-2026 00:00:32 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[18-Mar-2026 00:00:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[18-Mar-2026 00:01:55 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[18-Mar-2026 00:01:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[18-Mar-2026 00:01:55 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[18-Mar-2026 00:01:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[18-Mar-2026 00:17:29 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[18-Mar-2026 00:17:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[18-Mar-2026 00:17:29 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[18-Mar-2026 00:17:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[18-Mar-2026 00:20:29 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[18-Mar-2026 00:20:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[18-Mar-2026 00:20:29 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[18-Mar-2026 00:20:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[18-Mar-2026 11:25:02 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[18-Mar-2026 11:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[18-Mar-2026 12:34:19 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/iloincgi/public_html/dashboard.php on line 1451
+[18-Mar-2026 12:34:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/iloincgi/public_html/dashboard.php on line 1451
+[18-Mar-2026 12:34:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/iloincgi/public_html/dashboard.php on line 1451
+[18-Mar-2026 12:34:47 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/iloincgi/public_html/dashboard.php on line 1451
+[18-Mar-2026 12:34:48 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/iloincgi/public_html/dashboard.php on line 1451
+[18-Mar-2026 12:35:09 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/iloincgi/public_html/dashboard.php on line 1451
+[18-Mar-2026 12:57:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Hospital-Iloilo', '(+63 33) 321-2438', '', '0')' at line 2 in /home/iloincgi/public_html/add_emergency.php:44
+Stack trace:
+#0 /home/iloincgi/public_html/add_emergency.php(44): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_emergency.php on line 44
+[18-Mar-2026 12:57:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Hospital-Iloilo', '(+63 33) 321-2438', '', '0')' at line 2 in /home/iloincgi/public_html/add_emergency.php:44
+Stack trace:
+#0 /home/iloincgi/public_html/add_emergency.php(44): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_emergency.php on line 44
+[18-Mar-2026 12:58:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Hospital-Iloilo', '(+63 33) 321-2438', '', '0')' at line 2 in /home/iloincgi/public_html/add_emergency.php:44
+Stack trace:
+#0 /home/iloincgi/public_html/add_emergency.php(44): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_emergency.php on line 44
+[18-Mar-2026 12:59:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Hospital-Iloilo', '(+63 33) 321-2438', '', '0')' at line 2 in /home/iloincgi/public_html/add_emergency.php:44
+Stack trace:
+#0 /home/iloincgi/public_html/add_emergency.php(44): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_emergency.php on line 44
+[18-Mar-2026 12:59:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Hospital-Iloilo', '(+63 33) 321-2438', '', '0')' at line 2 in /home/iloincgi/public_html/add_emergency.php:44
+Stack trace:
+#0 /home/iloincgi/public_html/add_emergency.php(44): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_emergency.php on line 44
+[18-Mar-2026 12:59:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Hospital-Iloilo', '(+63 33) 321-2438', '', '0')' at line 2 in /home/iloincgi/public_html/add_emergency.php:44
+Stack trace:
+#0 /home/iloincgi/public_html/add_emergency.php(44): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_emergency.php on line 44
+[18-Mar-2026 23:44:33 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[18-Mar-2026 23:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[18-Mar-2026 23:44:33 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[18-Mar-2026 23:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[18-Mar-2026 23:51:29 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[18-Mar-2026 23:51:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[18-Mar-2026 23:51:29 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[18-Mar-2026 23:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[18-Mar-2026 23:55:47 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[18-Mar-2026 23:55:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[18-Mar-2026 23:55:47 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[18-Mar-2026 23:55:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[18-Mar-2026 23:57:15 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[18-Mar-2026 23:57:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[18-Mar-2026 23:57:15 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[18-Mar-2026 23:57:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[18-Mar-2026 23:59:18 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[18-Mar-2026 23:59:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[18-Mar-2026 23:59:18 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[18-Mar-2026 23:59:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[19-Mar-2026 00:03:14 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[19-Mar-2026 00:03:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[19-Mar-2026 00:03:14 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[19-Mar-2026 00:03:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[19-Mar-2026 00:07:09 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[19-Mar-2026 00:07:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[19-Mar-2026 00:07:09 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[19-Mar-2026 00:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[19-Mar-2026 00:08:07 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[19-Mar-2026 00:08:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[19-Mar-2026 00:08:07 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[19-Mar-2026 00:08:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[19-Mar-2026 00:08:30 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[19-Mar-2026 00:08:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[19-Mar-2026 00:08:30 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[19-Mar-2026 00:08:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[19-Mar-2026 23:45:01 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[19-Mar-2026 23:45:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[19-Mar-2026 23:45:01 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[19-Mar-2026 23:45:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[19-Mar-2026 23:45:26 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[19-Mar-2026 23:45:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[19-Mar-2026 23:45:26 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[19-Mar-2026 23:45:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[19-Mar-2026 23:45:37 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[19-Mar-2026 23:45:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[19-Mar-2026 23:45:37 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[19-Mar-2026 23:45:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[19-Mar-2026 23:45:53 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[19-Mar-2026 23:45:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[19-Mar-2026 23:45:53 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[19-Mar-2026 23:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[19-Mar-2026 23:48:49 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[19-Mar-2026 23:48:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[19-Mar-2026 23:48:49 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[19-Mar-2026 23:48:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[19-Mar-2026 23:48:59 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[19-Mar-2026 23:48:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[19-Mar-2026 23:48:59 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[19-Mar-2026 23:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[19-Mar-2026 23:50:04 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[19-Mar-2026 23:50:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[19-Mar-2026 23:50:04 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[19-Mar-2026 23:50:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[19-Mar-2026 23:52:32 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[19-Mar-2026 23:52:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[19-Mar-2026 23:52:32 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[19-Mar-2026 23:52:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[21-Mar-2026 00:16:54 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[21-Mar-2026 00:16:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[21-Mar-2026 00:16:54 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[21-Mar-2026 00:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[21-Mar-2026 00:16:59 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[21-Mar-2026 00:16:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[21-Mar-2026 00:16:59 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[21-Mar-2026 00:16:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[21-Mar-2026 00:17:46 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[21-Mar-2026 00:17:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[21-Mar-2026 00:17:46 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[21-Mar-2026 00:17:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[21-Mar-2026 00:17:56 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[21-Mar-2026 00:17:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[21-Mar-2026 00:17:56 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[21-Mar-2026 00:17:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[21-Mar-2026 00:18:36 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[21-Mar-2026 00:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[21-Mar-2026 00:18:36 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[21-Mar-2026 00:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[21-Mar-2026 00:20:47 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[21-Mar-2026 00:20:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[21-Mar-2026 00:20:47 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[21-Mar-2026 00:20:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[21-Mar-2026 00:21:40 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[21-Mar-2026 00:21:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[21-Mar-2026 00:21:40 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[21-Mar-2026 00:21:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[21-Mar-2026 00:24:43 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[21-Mar-2026 00:24:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[21-Mar-2026 00:24:43 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[21-Mar-2026 00:24:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[21-Mar-2026 04:44:34 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[21-Mar-2026 04:44:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[21-Mar-2026 04:44:34 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[21-Mar-2026 04:44:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[22-Mar-2026 00:24:38 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[22-Mar-2026 00:24:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[22-Mar-2026 00:24:38 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[22-Mar-2026 00:24:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[22-Mar-2026 00:32:20 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[22-Mar-2026 00:32:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[22-Mar-2026 00:32:20 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[22-Mar-2026 00:32:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[22-Mar-2026 00:32:29 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[22-Mar-2026 00:32:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[22-Mar-2026 00:32:29 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[22-Mar-2026 00:32:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[22-Mar-2026 00:32:33 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[22-Mar-2026 00:32:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[22-Mar-2026 00:32:33 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[22-Mar-2026 00:32:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[22-Mar-2026 00:32:34 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[22-Mar-2026 00:32:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[22-Mar-2026 00:32:34 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[22-Mar-2026 00:32:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[22-Mar-2026 00:32:39 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[22-Mar-2026 00:32:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[22-Mar-2026 00:32:39 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[22-Mar-2026 00:32:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[22-Mar-2026 00:32:42 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[22-Mar-2026 00:32:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[22-Mar-2026 00:32:42 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[22-Mar-2026 00:32:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[22-Mar-2026 00:32:54 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[22-Mar-2026 00:32:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[22-Mar-2026 00:32:54 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[22-Mar-2026 00:32:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[22-Mar-2026 23:45:47 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[22-Mar-2026 23:45:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[22-Mar-2026 23:45:47 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[22-Mar-2026 23:45:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[22-Mar-2026 23:46:07 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[22-Mar-2026 23:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[22-Mar-2026 23:46:07 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[22-Mar-2026 23:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[22-Mar-2026 23:46:17 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[22-Mar-2026 23:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[22-Mar-2026 23:46:17 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[22-Mar-2026 23:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[22-Mar-2026 23:46:33 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[22-Mar-2026 23:46:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[22-Mar-2026 23:46:33 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[22-Mar-2026 23:46:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[22-Mar-2026 23:46:38 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[22-Mar-2026 23:46:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[22-Mar-2026 23:46:38 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[22-Mar-2026 23:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[22-Mar-2026 23:47:51 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[22-Mar-2026 23:47:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[22-Mar-2026 23:47:51 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[22-Mar-2026 23:47:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[22-Mar-2026 23:48:33 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[22-Mar-2026 23:48:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[22-Mar-2026 23:48:33 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[22-Mar-2026 23:48:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[22-Mar-2026 23:49:31 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[22-Mar-2026 23:49:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[22-Mar-2026 23:49:31 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[22-Mar-2026 23:49:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[23-Mar-2026 02:13:11 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[23-Mar-2026 02:13:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[23-Mar-2026 02:13:11 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[23-Mar-2026 02:13:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[23-Mar-2026 09:06:52 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[23-Mar-2026 09:06:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[23-Mar-2026 09:06:52 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[23-Mar-2026 09:06:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[23-Mar-2026 23:48:15 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[23-Mar-2026 23:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[23-Mar-2026 23:48:15 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[23-Mar-2026 23:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[23-Mar-2026 23:54:03 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[23-Mar-2026 23:54:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[23-Mar-2026 23:54:03 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[23-Mar-2026 23:54:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[23-Mar-2026 23:54:04 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[23-Mar-2026 23:54:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[23-Mar-2026 23:54:04 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[23-Mar-2026 23:54:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[23-Mar-2026 23:56:43 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[23-Mar-2026 23:56:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[23-Mar-2026 23:56:43 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[23-Mar-2026 23:56:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[23-Mar-2026 23:57:15 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[23-Mar-2026 23:57:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[23-Mar-2026 23:57:15 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[23-Mar-2026 23:57:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[23-Mar-2026 23:57:17 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[23-Mar-2026 23:57:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[23-Mar-2026 23:57:17 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[23-Mar-2026 23:57:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[23-Mar-2026 23:57:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[23-Mar-2026 23:57:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[23-Mar-2026 23:57:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[23-Mar-2026 23:57:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[23-Mar-2026 23:58:03 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[23-Mar-2026 23:58:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[23-Mar-2026 23:58:03 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[23-Mar-2026 23:58:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[24-Mar-2026 07:13:59 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[24-Mar-2026 07:13:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[24-Mar-2026 07:13:59 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[24-Mar-2026 07:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[24-Mar-2026 23:47:23 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[24-Mar-2026 23:47:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[24-Mar-2026 23:47:23 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[24-Mar-2026 23:47:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[24-Mar-2026 23:48:46 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[24-Mar-2026 23:48:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[24-Mar-2026 23:48:46 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[24-Mar-2026 23:48:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[24-Mar-2026 23:50:59 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[24-Mar-2026 23:50:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[24-Mar-2026 23:50:59 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[24-Mar-2026 23:50:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[24-Mar-2026 23:51:55 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[24-Mar-2026 23:51:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[24-Mar-2026 23:51:55 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[24-Mar-2026 23:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[24-Mar-2026 23:52:48 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[24-Mar-2026 23:52:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[24-Mar-2026 23:52:48 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[24-Mar-2026 23:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[24-Mar-2026 23:54:38 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[24-Mar-2026 23:54:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[24-Mar-2026 23:54:38 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[24-Mar-2026 23:54:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[24-Mar-2026 23:58:24 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[24-Mar-2026 23:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[24-Mar-2026 23:58:24 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[24-Mar-2026 23:58:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[25-Mar-2026 00:23:45 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[25-Mar-2026 00:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[25-Mar-2026 00:23:45 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[25-Mar-2026 00:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[25-Mar-2026 07:01:26 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[25-Mar-2026 07:01:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[25-Mar-2026 07:01:26 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[25-Mar-2026 07:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[25-Mar-2026 11:38:04 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[25-Mar-2026 11:38:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[25-Mar-2026 11:38:04 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[25-Mar-2026 11:38:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[25-Mar-2026 13:27:15 UTC] PHP Warning:  Undefined array key "user_id" in /home/iloincgi/public_html/dashboard.php on line 442
+[25-Mar-2026 23:46:46 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[25-Mar-2026 23:46:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[25-Mar-2026 23:46:46 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[25-Mar-2026 23:46:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[25-Mar-2026 23:46:56 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[25-Mar-2026 23:46:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[25-Mar-2026 23:46:56 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[25-Mar-2026 23:46:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[25-Mar-2026 23:47:27 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[25-Mar-2026 23:47:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[25-Mar-2026 23:47:27 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[25-Mar-2026 23:47:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[25-Mar-2026 23:47:33 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[25-Mar-2026 23:47:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[25-Mar-2026 23:47:33 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[25-Mar-2026 23:47:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[25-Mar-2026 23:47:38 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[25-Mar-2026 23:47:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[25-Mar-2026 23:47:38 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[25-Mar-2026 23:47:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[25-Mar-2026 23:47:54 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[25-Mar-2026 23:47:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[25-Mar-2026 23:47:54 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[25-Mar-2026 23:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[25-Mar-2026 23:49:48 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[25-Mar-2026 23:49:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[25-Mar-2026 23:49:48 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[25-Mar-2026 23:49:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[25-Mar-2026 23:50:20 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[25-Mar-2026 23:50:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[25-Mar-2026 23:50:20 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[25-Mar-2026 23:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[25-Mar-2026 23:52:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 67
+[25-Mar-2026 23:52:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1168
+[25-Mar-2026 23:52:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1209
+[26-Mar-2026 15:04:40 UTC] Visitor tracking error: Unknown column 'visit_count' in 'SELECT'
+[26-Mar-2026 15:04:40 UTC] Database error: Unknown column 'visit_count' in 'WHERE'
+[26-Mar-2026 20:53:34 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[26-Mar-2026 20:53:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[26-Mar-2026 20:53:34 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[26-Mar-2026 20:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[26-Mar-2026 23:42:29 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[26-Mar-2026 23:42:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[26-Mar-2026 23:42:29 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[26-Mar-2026 23:42:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[26-Mar-2026 23:42:54 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[26-Mar-2026 23:42:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[26-Mar-2026 23:42:54 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[26-Mar-2026 23:42:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[26-Mar-2026 23:43:40 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[26-Mar-2026 23:43:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[26-Mar-2026 23:43:40 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[26-Mar-2026 23:43:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[26-Mar-2026 23:43:48 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[26-Mar-2026 23:43:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[26-Mar-2026 23:43:48 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[26-Mar-2026 23:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[26-Mar-2026 23:43:50 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[26-Mar-2026 23:43:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[26-Mar-2026 23:43:50 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[26-Mar-2026 23:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[26-Mar-2026 23:44:38 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[26-Mar-2026 23:44:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[26-Mar-2026 23:44:38 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[26-Mar-2026 23:44:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[26-Mar-2026 23:45:50 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[26-Mar-2026 23:45:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[26-Mar-2026 23:45:50 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[26-Mar-2026 23:45:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[26-Mar-2026 23:46:10 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[26-Mar-2026 23:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[26-Mar-2026 23:46:10 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[26-Mar-2026 23:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[26-Mar-2026 23:47:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 67
+[26-Mar-2026 23:47:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1168
+[26-Mar-2026 23:47:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1209
+[27-Mar-2026 03:15:24 UTC] PHP Warning:  Undefined array key "user_id" in /home/iloincgi/public_html/dashboard.php on line 466
+[27-Mar-2026 21:50:39 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/iloincgi/public_html/track_visitor.php on line 8
+[27-Mar-2026 23:38:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[27-Mar-2026 23:38:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[27-Mar-2026 23:38:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[27-Mar-2026 23:38:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[27-Mar-2026 23:38:29 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[27-Mar-2026 23:38:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[27-Mar-2026 23:38:29 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[27-Mar-2026 23:38:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[27-Mar-2026 23:38:35 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[27-Mar-2026 23:38:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[27-Mar-2026 23:38:35 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[27-Mar-2026 23:38:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[27-Mar-2026 23:39:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[27-Mar-2026 23:39:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[27-Mar-2026 23:39:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[27-Mar-2026 23:39:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[27-Mar-2026 23:39:30 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[27-Mar-2026 23:39:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[27-Mar-2026 23:39:30 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[27-Mar-2026 23:39:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[27-Mar-2026 23:39:38 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[27-Mar-2026 23:39:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[27-Mar-2026 23:39:38 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[27-Mar-2026 23:39:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[27-Mar-2026 23:40:59 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[27-Mar-2026 23:40:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[27-Mar-2026 23:40:59 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[27-Mar-2026 23:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[27-Mar-2026 23:42:40 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[27-Mar-2026 23:42:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[27-Mar-2026 23:42:40 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[27-Mar-2026 23:42:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[27-Mar-2026 23:44:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 67
+[27-Mar-2026 23:44:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1168
+[27-Mar-2026 23:44:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1209
+[28-Mar-2026 02:14:33 UTC] PHP Warning:  Undefined array key "user_id" in /home/iloincgi/public_html/dashboard.php on line 465
+[28-Mar-2026 02:14:41 UTC] PHP Warning:  Undefined array key "user_id" in /home/iloincgi/public_html/dashboard.php on line 465
+[28-Mar-2026 02:14:51 UTC] PHP Warning:  Undefined array key "user_id" in /home/iloincgi/public_html/dashboard.php on line 465
+[28-Mar-2026 02:14:59 UTC] PHP Warning:  Undefined array key "user_id" in /home/iloincgi/public_html/dashboard.php on line 465
+[28-Mar-2026 02:15:08 UTC] PHP Warning:  Undefined array key "user_id" in /home/iloincgi/public_html/dashboard.php on line 465
+[28-Mar-2026 02:15:22 UTC] PHP Warning:  Undefined array key "user_id" in /home/iloincgi/public_html/dashboard.php on line 465
+[28-Mar-2026 02:15:29 UTC] PHP Warning:  Undefined array key "user_id" in /home/iloincgi/public_html/dashboard.php on line 465
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[28-Mar-2026 06:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[28-Mar-2026 06:43:25 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[28-Mar-2026 06:43:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[28-Mar-2026 08:59:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/iloincgi/public_html/login.php on line 47
+[28-Mar-2026 09:07:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/iloincgi/public_html/login.php on line 47
+[28-Mar-2026 10:35:33 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[28-Mar-2026 10:35:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[28-Mar-2026 10:35:33 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[28-Mar-2026 10:35:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[28-Mar-2026 23:40:05 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[28-Mar-2026 23:40:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[28-Mar-2026 23:40:05 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[28-Mar-2026 23:40:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[28-Mar-2026 23:40:32 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[28-Mar-2026 23:40:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[28-Mar-2026 23:40:32 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[28-Mar-2026 23:40:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[28-Mar-2026 23:41:50 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[28-Mar-2026 23:41:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[28-Mar-2026 23:41:50 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[28-Mar-2026 23:41:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[28-Mar-2026 23:42:12 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[28-Mar-2026 23:42:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[28-Mar-2026 23:42:12 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[28-Mar-2026 23:42:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[28-Mar-2026 23:42:14 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[28-Mar-2026 23:42:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[28-Mar-2026 23:42:14 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[28-Mar-2026 23:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[28-Mar-2026 23:42:32 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[28-Mar-2026 23:42:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[28-Mar-2026 23:42:32 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[28-Mar-2026 23:42:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[28-Mar-2026 23:42:58 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[28-Mar-2026 23:42:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[28-Mar-2026 23:42:58 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[28-Mar-2026 23:42:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[28-Mar-2026 23:43:05 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[28-Mar-2026 23:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[28-Mar-2026 23:43:05 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[28-Mar-2026 23:43:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[28-Mar-2026 23:46:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 67
+[28-Mar-2026 23:46:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1168
+[28-Mar-2026 23:46:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1209
+[29-Mar-2026 10:48:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/add_services.php:5
+Stack trace:
+#0 /home/iloincgi/public_html/add_services.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 5
+[29-Mar-2026 10:48:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/add_services.php:5
+Stack trace:
+#0 /home/iloincgi/public_html/add_services.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 5
+[29-Mar-2026 10:49:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/add_services.php:5
+Stack trace:
+#0 /home/iloincgi/public_html/add_services.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 5
+[29-Mar-2026 10:50:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iloincgi/public_html/add_services.php:5
+Stack trace:
+#0 /home/iloincgi/public_html/add_services.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 5
+[29-Mar-2026 18:50:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 141
+[29-Mar-2026 18:50:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 141
+[29-Mar-2026 18:54:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 150
+[29-Mar-2026 18:54:52 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 150
+[29-Mar-2026 10:57:14 UTC] PHP Warning:  Attempt to read property "connect_error" on bool in /home/iloincgi/public_html/add_services.php on line 17
+[29-Mar-2026 18:57:14 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:197
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 197
+[29-Mar-2026 18:57:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 192
+[29-Mar-2026 18:58:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:142
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 142
+[29-Mar-2026 19:02:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:244
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 244
+[29-Mar-2026 11:06:38 UTC] PHP Warning:  Attempt to read property "connect_error" on bool in /home/iloincgi/public_html/add_services.php on line 6
+[29-Mar-2026 19:06:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 146
+[29-Mar-2026 19:07:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 143
+[29-Mar-2026 11:09:58 UTC] PHP Warning:  Attempt to read property "connect_error" on bool in /home/iloincgi/public_html/add_services.php on line 12
+[29-Mar-2026 19:09:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 153
+[29-Mar-2026 11:10:00 UTC] PHP Warning:  Attempt to read property "connect_error" on bool in /home/iloincgi/public_html/add_services.php on line 12
+[29-Mar-2026 19:10:00 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 153
+[29-Mar-2026 11:10:19 UTC] PHP Warning:  Attempt to read property "connect_error" on bool in /home/iloincgi/public_html/add_services.php on line 14
+[29-Mar-2026 19:10:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 34
+[29-Mar-2026 19:17:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 143
+[29-Mar-2026 19:17:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 143
+[29-Mar-2026 19:22:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 143
+[29-Mar-2026 19:23:12 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 143
+[29-Mar-2026 19:25:43 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 143
+[29-Mar-2026 19:40:04 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 116
+[29-Mar-2026 19:41:41 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 143
+[29-Mar-2026 19:46:00 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 143
+[29-Mar-2026 19:46:41 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 143
+[29-Mar-2026 19:46:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 116
+[29-Mar-2026 19:46:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 116
+[29-Mar-2026 19:47:43 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:142
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 142
+[29-Mar-2026 19:53:45 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:142
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 142
+[29-Mar-2026 19:54:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:142
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 142
+[29-Mar-2026 20:00:09 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 135
+[29-Mar-2026 20:00:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 135
+[29-Mar-2026 20:01:00 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 143
+[29-Mar-2026 20:01:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 143
+[29-Mar-2026 20:06:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 143
+[29-Mar-2026 20:10:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/iloincgi/public_html/add_services.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/add_services.php on line 130
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[29-Mar-2026 21:27:30 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[29-Mar-2026 21:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[29-Mar-2026 21:27:32 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[29-Mar-2026 21:27:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[29-Mar-2026 23:43:50 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[29-Mar-2026 23:43:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[29-Mar-2026 23:43:50 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[29-Mar-2026 23:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[29-Mar-2026 23:43:59 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[29-Mar-2026 23:43:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[29-Mar-2026 23:43:59 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[29-Mar-2026 23:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[29-Mar-2026 23:44:25 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[29-Mar-2026 23:44:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[29-Mar-2026 23:44:25 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[29-Mar-2026 23:44:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[29-Mar-2026 23:44:37 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[29-Mar-2026 23:44:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[29-Mar-2026 23:44:37 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[29-Mar-2026 23:44:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[29-Mar-2026 23:44:56 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[29-Mar-2026 23:44:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[29-Mar-2026 23:44:56 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[29-Mar-2026 23:44:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[29-Mar-2026 23:45:39 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[29-Mar-2026 23:45:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[29-Mar-2026 23:45:39 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[29-Mar-2026 23:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[29-Mar-2026 23:48:05 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[29-Mar-2026 23:48:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[29-Mar-2026 23:48:05 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[29-Mar-2026 23:48:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[29-Mar-2026 23:50:42 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[29-Mar-2026 23:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[29-Mar-2026 23:50:42 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[29-Mar-2026 23:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[29-Mar-2026 23:53:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 67
+[29-Mar-2026 23:53:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1168
+[29-Mar-2026 23:53:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1209
+[30-Mar-2026 07:15:46 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[30-Mar-2026 07:15:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[30-Mar-2026 07:15:46 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[30-Mar-2026 07:15:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[30-Mar-2026 15:17:58 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[30-Mar-2026 15:17:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[30-Mar-2026 15:17:58 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[30-Mar-2026 15:17:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[30-Mar-2026 23:52:35 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[30-Mar-2026 23:52:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[30-Mar-2026 23:52:35 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[30-Mar-2026 23:52:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[30-Mar-2026 23:55:47 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[30-Mar-2026 23:55:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[30-Mar-2026 23:55:47 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[30-Mar-2026 23:55:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[30-Mar-2026 23:56:29 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[30-Mar-2026 23:56:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[30-Mar-2026 23:56:29 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[30-Mar-2026 23:56:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[30-Mar-2026 23:56:31 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[30-Mar-2026 23:56:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[30-Mar-2026 23:56:31 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[30-Mar-2026 23:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[30-Mar-2026 23:59:15 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[30-Mar-2026 23:59:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[30-Mar-2026 23:59:15 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[30-Mar-2026 23:59:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[30-Mar-2026 23:59:26 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[30-Mar-2026 23:59:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[30-Mar-2026 23:59:26 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[30-Mar-2026 23:59:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[30-Mar-2026 23:59:54 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[30-Mar-2026 23:59:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[30-Mar-2026 23:59:54 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[30-Mar-2026 23:59:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[31-Mar-2026 00:00:25 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[31-Mar-2026 00:00:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[31-Mar-2026 00:00:25 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[31-Mar-2026 00:00:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[31-Mar-2026 00:02:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 67
+[31-Mar-2026 00:02:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1168
+[31-Mar-2026 00:02:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1209
+[31-Mar-2026 05:04:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/iloincgi/public_html/login.php on line 47
+[31-Mar-2026 11:30:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE browser IS NOT NULL AND browser != ''
+                  GROUP BY brows...' at line 4 in /home/iloincgi/public_html/dashboard.php:222
+Stack trace:
+#0 /home/iloincgi/public_html/dashboard.php(222): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/dashboard.php on line 222
+[31-Mar-2026 11:30:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE browser IS NOT NULL AND browser != ''
+                  GROUP BY brows...' at line 4 in /home/iloincgi/public_html/dashboard.php:222
+Stack trace:
+#0 /home/iloincgi/public_html/dashboard.php(222): mysqli->query()
+#1 {main}
+  thrown in /home/iloincgi/public_html/dashboard.php on line 222
+[31-Mar-2026 11:43:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/iloincgi/public_html/login.php on line 47
+[31-Mar-2026 11:44:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/iloincgi/public_html/about.php on line 46
+[31-Mar-2026 13:56:26 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[31-Mar-2026 13:56:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[31-Mar-2026 13:56:26 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[31-Mar-2026 13:56:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[31-Mar-2026 16:27:10 UTC] PHP Warning:  Undefined array key "type" in /home/iloincgi/public_html/contact.php on line 60
+[01-Apr-2026 00:50:57 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[01-Apr-2026 00:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[01-Apr-2026 00:50:57 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[01-Apr-2026 00:50:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[01-Apr-2026 00:51:06 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[01-Apr-2026 00:51:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[01-Apr-2026 00:51:06 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[01-Apr-2026 00:51:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[01-Apr-2026 00:51:19 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[01-Apr-2026 00:51:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[01-Apr-2026 00:51:19 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[01-Apr-2026 00:51:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[01-Apr-2026 00:52:09 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[01-Apr-2026 00:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[01-Apr-2026 00:52:09 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[01-Apr-2026 00:52:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[01-Apr-2026 00:53:31 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[01-Apr-2026 00:53:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[01-Apr-2026 00:53:31 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[01-Apr-2026 00:53:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[01-Apr-2026 00:55:50 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[01-Apr-2026 00:55:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[01-Apr-2026 00:55:50 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[01-Apr-2026 00:55:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[01-Apr-2026 00:58:47 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[01-Apr-2026 00:58:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[01-Apr-2026 00:58:47 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[01-Apr-2026 00:58:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[01-Apr-2026 01:00:26 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[01-Apr-2026 01:00:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[01-Apr-2026 01:00:26 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[01-Apr-2026 01:00:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[01-Apr-2026 01:01:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 67
+[01-Apr-2026 01:01:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1168
+[01-Apr-2026 01:01:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1209
+[01-Apr-2026 04:10:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/iloincgi/public_html/login.php on line 47
+[01-Apr-2026 12:23:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/iloincgi/public_html/login.php on line 47
+[01-Apr-2026 14:13:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/iloincgi/public_html/login.php on line 47
+[01-Apr-2026 16:54:45 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[01-Apr-2026 16:54:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[01-Apr-2026 16:54:45 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[01-Apr-2026 16:54:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[01-Apr-2026 20:29:48 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[01-Apr-2026 20:29:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[01-Apr-2026 20:29:48 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[01-Apr-2026 20:29:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[02-Apr-2026 01:17:09 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[02-Apr-2026 01:17:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[02-Apr-2026 01:17:09 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[02-Apr-2026 01:17:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[02-Apr-2026 01:20:39 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[02-Apr-2026 01:20:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[02-Apr-2026 01:20:39 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[02-Apr-2026 01:20:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[02-Apr-2026 01:21:05 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[02-Apr-2026 01:21:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[02-Apr-2026 01:21:05 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[02-Apr-2026 01:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[02-Apr-2026 01:22:02 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[02-Apr-2026 01:22:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[02-Apr-2026 01:22:02 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[02-Apr-2026 01:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[02-Apr-2026 01:23:52 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[02-Apr-2026 01:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[02-Apr-2026 01:23:52 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[02-Apr-2026 01:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[02-Apr-2026 01:34:12 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[02-Apr-2026 01:34:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[02-Apr-2026 01:34:12 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[02-Apr-2026 01:34:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[02-Apr-2026 01:34:17 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[02-Apr-2026 01:34:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[02-Apr-2026 01:34:17 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[02-Apr-2026 01:34:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[02-Apr-2026 01:38:54 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[02-Apr-2026 01:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[02-Apr-2026 01:38:54 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[02-Apr-2026 01:38:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[02-Apr-2026 01:45:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 67
+[02-Apr-2026 01:45:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1168
+[02-Apr-2026 01:45:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1209
+[02-Apr-2026 03:26:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/iloincgi/public_html/login.php on line 47
+[03-Apr-2026 01:01:10 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[03-Apr-2026 01:01:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[03-Apr-2026 01:01:10 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[03-Apr-2026 01:01:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[03-Apr-2026 01:10:34 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[03-Apr-2026 01:10:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[03-Apr-2026 01:10:34 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[03-Apr-2026 01:10:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[03-Apr-2026 01:10:39 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[03-Apr-2026 01:10:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[03-Apr-2026 01:10:39 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[03-Apr-2026 01:10:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[03-Apr-2026 01:10:43 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[03-Apr-2026 01:10:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[03-Apr-2026 01:10:43 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[03-Apr-2026 01:10:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[03-Apr-2026 01:11:08 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[03-Apr-2026 01:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[03-Apr-2026 01:11:08 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[03-Apr-2026 01:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[03-Apr-2026 01:11:12 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[03-Apr-2026 01:11:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[03-Apr-2026 01:11:12 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[03-Apr-2026 01:11:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[03-Apr-2026 01:11:58 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[03-Apr-2026 01:11:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[03-Apr-2026 01:11:58 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[03-Apr-2026 01:11:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[03-Apr-2026 01:12:26 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[03-Apr-2026 01:12:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[03-Apr-2026 01:12:26 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[03-Apr-2026 01:12:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[03-Apr-2026 01:13:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 67
+[03-Apr-2026 01:13:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1168
+[03-Apr-2026 01:13:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1209
+[03-Apr-2026 03:06:40 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[03-Apr-2026 03:06:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[03-Apr-2026 03:06:40 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[03-Apr-2026 03:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[03-Apr-2026 12:25:54 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/iloincgi/public_html/track_visitor.php on line 6
+[04-Apr-2026 00:38:16 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district7.php on line 64
+[04-Apr-2026 00:38:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district7.php on line 64
+[04-Apr-2026 00:38:16 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district7.php on line 1743
+[04-Apr-2026 00:38:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district7.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district7.php on line 1743
+[04-Apr-2026 00:38:22 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district4.php on line 64
+[04-Apr-2026 00:38:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district4.php on line 64
+[04-Apr-2026 00:38:22 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district4.php on line 1743
+[04-Apr-2026 00:38:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district4.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district4.php on line 1743
+[04-Apr-2026 00:38:37 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district3.php on line 64
+[04-Apr-2026 00:38:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district3.php on line 64
+[04-Apr-2026 00:38:37 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district3.php on line 1743
+[04-Apr-2026 00:38:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district3.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district3.php on line 1743
+[04-Apr-2026 00:38:42 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district5.php on line 64
+[04-Apr-2026 00:38:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district5.php on line 64
+[04-Apr-2026 00:38:42 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district5.php on line 1743
+[04-Apr-2026 00:38:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district5.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district5.php on line 1743
+[04-Apr-2026 00:39:11 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district6.php on line 64
+[04-Apr-2026 00:39:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district6.php on line 64
+[04-Apr-2026 00:39:11 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district6.php on line 1743
+[04-Apr-2026 00:39:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district6.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district6.php on line 1743
+[04-Apr-2026 00:39:16 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district2.php on line 64
+[04-Apr-2026 00:39:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district2.php on line 64
+[04-Apr-2026 00:39:16 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district2.php on line 1743
+[04-Apr-2026 00:39:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district2.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district2.php on line 1743
+[04-Apr-2026 00:40:03 UTC] PHP Warning:  Undefined variable $district in /home/iloincgi/public_html/district1.php on line 64
+[04-Apr-2026 00:40:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/district1.php on line 64
+[04-Apr-2026 00:40:03 UTC] PHP Warning:  Undefined variable $conn in /home/iloincgi/public_html/district1.php on line 1743
+[04-Apr-2026 00:40:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/iloincgi/public_html/district1.php:1743
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/district1.php on line 1743
+[04-Apr-2026 00:40:41 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[04-Apr-2026 00:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[04-Apr-2026 00:40:41 UTC] PHP Warning:  Undefined variable $result in /home/iloincgi/public_html/cafe19.php on line 12
+[04-Apr-2026 00:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/iloincgi/public_html/cafe19.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/iloincgi/public_html/cafe19.php on line 12
+[04-Apr-2026 00:41:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 67
+[04-Apr-2026 00:41:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1168
+[04-Apr-2026 00:41:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/iloincgi/public_html/food26.php on line 1209
