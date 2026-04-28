@@ -10,7 +10,7 @@ provide essential city information in one centralized platform.
 
 This application allows users to explore Iloilo City’s tourist attractions, accommodations, restaurants, government services, and emergency contacts with ease.
 
-It also includes an **admin panel** that enables administrators to manage content dynamically, ensuring that information is always updated and relevant.
+It also includes an **admin panel** that enables administrators to manage content, ensuring that information is always updated and relevant.
 
 ---
 
