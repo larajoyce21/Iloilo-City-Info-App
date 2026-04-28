@@ -122,6 +122,13 @@ http://localhost/BLOCK-APP/index.php
 
 ## Screenshots
 > Examples:
+> Mobile View
+* Homepage - <img width="616" height="855" alt="Homepage-mobile" src="https://github.com/user-attachments/assets/5f41553b-8ec6-4414-b90f-492bbd293724" />
+* Categories Page - <img width="621" height="925" alt="Categories-Mobile" src="https://github.com/user-attachments/assets/0a9464ab-6994-477a-a9e9-21e0a5dec517" />
+* Hotel Details - <img width="617" height="921" alt="Hotel-Mobile" src="https://github.com/user-attachments/assets/93b0ecbc-7089-42a3-a844-a86849752ad0" />
+* <img width="623" height="912" alt="Hotel Details-Mobile" src="https://github.com/user-attachments/assets/5042a880-a573-4a42-8ec1-e4459aa112db" />
+
+> Desktop View
 * Homepage -<img width="1898" height="972" alt="image" src="https://github.com/user-attachments/assets/aa87a87c-7a27-44a3-af2f-1fd01087a49a" />
 * Categories Page - <img width="1915" height="960" alt="image" src="https://github.com/user-attachments/assets/58935ccc-1577-4448-b6f2-3259e8162189" />
 * Admin Dashboard - <img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/9d67fc96-5966-4558-9926-d8af0a725b63" />
