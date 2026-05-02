@@ -6,7 +6,7 @@
 ## Project Description
 
 The **Iloilo City Info App** is a mobile-based information system designed to promote tourism, support local businesses, and 
-provide essential city information in one centralized platform.
+provide essential city information in one platform.
 
 This application allows users to explore Iloilo City’s tourist attractions, accommodations, restaurants, government services, and emergency contacts with ease.
 
@@ -171,7 +171,7 @@ http://localhost/BLOCK-APP/index.php
 * **Jc Andrea Ocampo**
   *Capstone Project Documentator*
 * **Kristine Ventura**
-   *Capstone Project Documentator*
+  *Capstone Project Documentator*
 
 ---
 
