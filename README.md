@@ -19,7 +19,7 @@ It also includes an **admin panel** that enables administrators to manage conten
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/iloilo-city-info-app.git
+https://github.com/larajoyce21/Iloilo-City-Info-App
 ```
 
 ### 2. Move Project Folder
